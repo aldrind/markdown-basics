@@ -1,4 +1,4 @@
-<h2> markdown-basics. </h2>
+## markdown-basics
 markdown permite usar um formato fácil de ler, fácil de escrever em um formato de texto simples, que então se converte em HTML, válida para visualização no GitHub
 Parágrafos
 Parágrafos em Markdown é apenas uma linha ou mais de texto consecutivo seguido pot uma ou mais linhas em branco.
@@ -10,3 +10,4 @@ Você pode criar um título, adicionando um ou mais # símbolos antes do título
   # o segundo título (um <h2> tag)
   ...
   ###### o sexto título (um <h6> tag)
+  citações em bloco
