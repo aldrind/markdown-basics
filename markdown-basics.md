@@ -68,8 +68,3 @@ Em 3 de julho, os Cavaleiros Negros, um esquadrão de Marine Corps F / A-18 Horn
 ###Links
 <p>Você pode criar uma ligação com uma linha por envolvimento de links texto entre colchetes ( <code>[ ]</code> ), em seguida, envolver uma ligação entre parênteses ( <code>( )</code> ).</p>
 <p>Por exemplo, para criar um hiperlink para www.github.com, com o link que diz, Visite Github !, você escreveria isso em Markdown: <code>[Visit GitHub!](www.github.com)</code>.</p>
-###Veja Também
-<ul><li><a href="https://help.github.com/articles/github-flavored-markdown/">GitHub Flavored Markdown</a></li>
-<li><a href="https://help.github.com/articles/writing-on-github/">Escrevendo no GitHub</a>
-<li><a href="http://guides.github.com/features/mastering-markdown/">Dominando Markdown</a></li></ul>
-</html>
